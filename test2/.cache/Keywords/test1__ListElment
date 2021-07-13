@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "6F7CC16B4C23AF5BF007627721379B3A",
+  "keywordClasses": [
+    {
+      "name": "test1.ListElment",
+      "keywordMethods": [
+        {
+          "name": "listelement",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
